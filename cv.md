@@ -2,7 +2,7 @@ Pavel Bradnitski
 ================
 
 -------------------     ----------------------------
-1 MyAddress                 pavel.brodnizkiy@mail.ru
+Yakuba Kolasa,28            pavel.brodnizkiy@mail.ru
 Minsk                           @7AzSP16fAqla3mK
 Belarus                         +375299622042
 -------------------     ----------------------------
