@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://PavelBradnitski.github.io/rsschool-cv/cv
