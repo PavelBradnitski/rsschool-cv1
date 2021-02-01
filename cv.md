@@ -11,7 +11,7 @@ Education
 ---------
 
 2017-2021 (expected)
-:   **PhD, Computer Science**; BSUIR (MyTown)
+:   **Information technology and management in technical systems**; BSUIR (Bostyn')
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -25,10 +25,9 @@ Experience
 1 Year of experience of developer on VEB Technologies, visited English course. 
 links:
 
-* First item
+* [belveb.by](https://www.belveb.by/)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* [vebtech.by](https://vebtech.by/).
 
 Technical Experience
 --------------------
